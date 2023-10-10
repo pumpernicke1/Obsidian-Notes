@@ -30,7 +30,7 @@
 		1. True, because there is only one solution for x which we can show here: x can only be equal to $\sqrt 2$ $$\begin{align}2x^2=4\\x^2=2\\\sqrt x = \pm\sqrt 2\end{align}$$
 
  5. Stability in Matchings
-	 1. For any stable matching instance, the job optimal stable matching has at least one job that is paired with their favorite candidate. <br><br>False, consider the following stable matching where each job has a   candidate that prefers them the least, then no job would get its top job.
+	 1. For any stable matching instance, the job optimal stable matching has at least one job that is paired with their favorite candidate. <br><br>False, consider the following stable matching where each job has a   candidate that prefers them the least, then no job would get its top job.<br><br> 
 	 3. For any stable matching instance, the job optimal stable matching has no job paired with their least favorite candidate.
 	 4. For any stable matching instance, the job optimal stable matching has at least one candidate that does not get their favorite job.
 	 5. For any stable matching instance, all matchings have an even number of rogue couples. (Recall, a stable matching has 0 rogue couples.)
