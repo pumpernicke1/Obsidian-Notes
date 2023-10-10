@@ -15,4 +15,11 @@
 	 8. $\exists x \in S, Q(x) \wedge P(x)$ : True, the $P(x)$ portion is redundant since we know all x satisfies this requirement. That means we're just looking for an x that satisfies $Q(x)$ which we know exists.
 	 9. $\forall x \in S, Q(x) \vee P(x)$ : True; this is even easier to prove since statement 8 implies statement 9, meaning this is right by extension.
  4. To Prove or Disprove
-	 1. Prove or disprove: for $x,y,d \in \mathbb{Z}$ if $d | (x-y)$ then $d|x$ 
+	 1. Prove or disprove: for $x,y,d \in \mathbb{Z}$ if $d | (x-y)$ then $d | x$ 
+			 False, counterexample: 
+$$
+			 \begin{align} 
+			 x=13,y=3,d=5 \\
+			 d | (x - y) \Rightarrow 5 | ()
+			 \end{align}
+$$
