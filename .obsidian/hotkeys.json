@@ -6,6 +6,13 @@
         "Shift"
       ],
       "key": "C"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "C"
     }
   ],
   "obsidian-git:commit": [
@@ -96,6 +103,15 @@
         "Mod"
       ],
       "key": "H"
+    }
+  ],
+  "obsidian-table-generator:create-table-genertator": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
     }
   ]
 }
