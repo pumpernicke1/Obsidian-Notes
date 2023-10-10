@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "fd3c259f8ed8ec64",
+            "id": "4cb76f4320c0a445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "CS70/Modular Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "CS70/Modular Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "CS70/Modular Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "CS70/Modular Arithmetic.md"
               }
             }
           }
@@ -155,11 +155,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd3c259f8ed8ec64",
+  "active": "4cb76f4320c0a445",
   "lastOpenFiles": [
+    "CS70/Modular Arithmetic.md",
+    "CS70",
     "Pics/Pasted image 20231010051123.png",
     "Pics/Pasted image 20231010051115.png",
-    "Pics",
-    "Untitled.md"
+    "Pics"
   ]
 }
