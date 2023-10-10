@@ -12,4 +12,6 @@
 	 5. $\neg A \vee C$ : True, because this is saying false or true.
 	 6. $\forall x \in S, Q(x)$ : False, since we know that there exists an x such that $\neg Q(x)$ meaning this can't be true for all x.
 	 7. $\exists x \in S,P(x)$ : True, since if all x satisfy P(x), there must exist an x that satisfies P(x) or $\forall x \in S(P(x)) \implies \exists x,P(x)$
-	 8. $\exists x \in S, Q(x) \wedge P(x)$
+	 8. $\exists x \in S, Q(x) \wedge P(x)$ : True, the $P(x)$ portion is redundant since we know all x satisfies this requirement. That means we're just looking for an x that satisfies $Q(x)$ which we know exists.
+	 9. $\forall x \in S, Q(x) \vee P(x)$ : True; this is even easier to prove since statement 8 implies statement 9, meaning this is right by extension.
+	 10.==Does this work? Wow!==

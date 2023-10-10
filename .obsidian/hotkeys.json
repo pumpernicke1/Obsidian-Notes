@@ -15,6 +15,13 @@
         "Shift"
       ],
       "key": "S"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "S"
     }
   ],
   "obsidian-git:push2": [
@@ -24,12 +31,26 @@
         "Shift"
       ],
       "key": "E"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "E"
     }
   ],
   "editor:insert-mathblock": [
     {
       "modifiers": [
         "Ctrl",
+        "Shift"
+      ],
+      "key": "M"
+    },
+    {
+      "modifiers": [
+        "Mod",
         "Shift"
       ],
       "key": "M"
