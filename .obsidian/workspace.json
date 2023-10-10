@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS70/Modular Arithmetic.md",
+                "file": "CS70/CS70 Midterm Sp22.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f6a1c585fd8e1021",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS70/Modular Arithmetic.md",
+                "file": "CS70/CS70 Midterm Sp22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS70/Modular Arithmetic.md",
+                "file": "CS70/CS70 Midterm Sp22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS70/Modular Arithmetic.md"
+                "file": "CS70/CS70 Midterm Sp22.md"
               }
             }
           }
@@ -155,9 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cb76f4320c0a445",
+  "active": "bade2ae869626392",
   "lastOpenFiles": [
     "CS70/Modular Arithmetic.md",
+    "CS70/CS70 Midterm Sp22.md",
     "CS70",
     "Pics/Pasted image 20231010051123.png",
     "Pics/Pasted image 20231010051115.png",
