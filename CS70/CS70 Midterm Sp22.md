@@ -14,4 +14,5 @@
 	 7. $\exists x \in S,P(x)$ : True, since if all x satisfy P(x), there must exist an x that satisfies P(x) or $\forall x \in S(P(x)) \implies \exists x,P(x)$
 	 8. $\exists x \in S, Q(x) \wedge P(x)$ : True, the $P(x)$ portion is redundant since we know all x satisfies this requirement. That means we're just looking for an x that satisfies $Q(x)$ which we know exists.
 	 9. $\forall x \in S, Q(x) \vee P(x)$ : True; this is even easier to prove since statement 8 implies statement 9, meaning this is right by extension.
-	 10.==Does this work? Wow!==
+ 4. To Prove or Disprove
+	 1. Prove or disprove: for $x,y,d \in \mathbb{Z}$ if $d | (x-y)$ then $d|x$ 

@@ -64,5 +64,38 @@
       ],
       "key": "N"
     }
+  ],
+  "file-explorer:new-file-in-new-pane": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
   ]
 }
