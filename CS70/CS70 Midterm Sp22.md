@@ -16,12 +16,20 @@
 	 9. $\forall x \in S, Q(x) \vee P(x)$ : True; this is even easier to prove since statement 8 implies statement 9, meaning this is right by extension.
  4. To Prove or Disprove
 	 1. Prove or disprove: for $x,y,d \in \mathbb{Z}$ if $d | (x-y)$ then $d | x$  
-		  False, counterexample: $$
+				False, counterexample: $$
 			 \begin{align} 
 			 x=13,y=3,d=5 \\
 			 d | (x - y) \Rightarrow 5 | (10)\\
 			 \neg (5)|13
 			 \end{align}
 $$
-	 2. Prove or disprove:  
-		
+	 2. Prove or disprove:  $2x^2=4$ has no solutions in the rationals
+				True, because there is only one solution for x which we can show here: 
+$$
+				\begin{align}
+				2x^2=4\\
+				x^2=2\\
+				\sqrt x = \pm\sqrt 2
+				\end{align}
+$$
+				F
