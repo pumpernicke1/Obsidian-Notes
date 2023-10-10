@@ -11,8 +11,12 @@
             "id": "1c025cd81e3b4ca4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS70/CS70 Midterm Sp22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -30,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "CS70/CS70 Midterm Sp22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "CS70/CS70 Midterm Sp22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "CS70/CS70 Midterm Sp22.md"
               }
             }
           },
@@ -169,10 +172,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "4cb76f4320c0a445",
+  "active": "1c025cd81e3b4ca4",
   "lastOpenFiles": [
-    "CS70/CS70 Midterm Sp22.md",
     "Untitled.canvas",
+    "CS70/CS70 Midterm Sp22.md",
     "Untitled 1.md",
     "Untitled.md",
     "CS70/Modular Arithmetic.md",
