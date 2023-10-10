@@ -8,4 +8,7 @@
 	 1.  $A \implies B$ : False, because this is equivalent to true implies false
 	 2. $B \implies A$ : True, because this is equivalent to false implies true. Since B is never true, we never actually have to check if A is true so this is true by default no matter what A is.
 	 3. $A \implies C$ : True, since this is just true implies true.
-	 4. $A \or B$ 
+	 4. $A\vee B\implies\neg C$ : False, since $A\vee B$ is always true since A is always true. $\neg C$ is false so this is saying true implies false.
+	 5. $\neg A \vee C$ : True, because this is saying false or true.
+	 6. $\forall x \in S, Q(x)$ : False, since we know that there exists an x such that $\neg Q(x)$ meaning this can't be true for all x.
+	 7. $\ex$
