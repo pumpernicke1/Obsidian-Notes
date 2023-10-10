@@ -11,4 +11,5 @@
 	 4. $A\vee B\implies\neg C$ : False, since $A\vee B$ is always true since A is always true. $\neg C$ is false so this is saying true implies false.
 	 5. $\neg A \vee C$ : True, because this is saying false or true.
 	 6. $\forall x \in S, Q(x)$ : False, since we know that there exists an x such that $\neg Q(x)$ meaning this can't be true for all x.
-	 7. $\ex$
+	 7. $\exists x \in S,P(x)$ : True, since if all x satisfy P(x), there must exist an x that satisfies P(x) or $\forall x \in S(P(x)) \implies \exists x,P(x)$
+	 8. $\exists x \in S, Q(x) \wedge P(x)$
