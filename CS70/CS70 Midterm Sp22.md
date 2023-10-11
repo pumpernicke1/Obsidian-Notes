@@ -125,7 +125,9 @@ ____
 			 n - 1
 		 2. What is the degree of the error locator polynomial E(x)?
 			  k
-		 1. What is the degree of Q(x) = P(x)E(x)?
+		 3. What is the degree of Q(x) = P(x)E(x)?
 			  n + k
-		 1. If there were i ≤ k errors, the recovered E(x) has at least roots. Give the largest lower bound you can.
-			 
+		 4. If there were i ≤ k errors, the recovered E(x) has at least roots. Give the largest lower bound you can.
+			 k
+___
+10. Polynomials and Functions
