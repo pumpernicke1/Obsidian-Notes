@@ -70,4 +70,6 @@ ____
 			Shouldn't this just be 2 since we can kinda zig zag to create a connected bipartite graph? The logic feels a bit iffy though I will admit. Something like this (The graph of S to U). 
 			![[Pasted image 20231011012246.png]]
 	  6.   The complete graph $K_n$ on $n > 3$ vertices can be made to contain an Eulerian tour by deleting a minimum of edges. (Answer(s) should be as small as possible and possibly in terms of n.)
-			  For evens, 
+			  For evens, a eularian tour is possible if every vertex is of even degree but since there is an even number of vertices, each vertex has degree n-1. We should be able to get a eularian tour if we remove n edges. Odds, I think it's zero since  they're all already even.
+	  7. Consider a connected n-vertex graph G with exactly k cycles. Provide as tight of a bound as possible for each part. (You may assume $n > 4k$).
+			  
