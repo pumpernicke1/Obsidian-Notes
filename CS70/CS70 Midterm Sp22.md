@@ -37,12 +37,15 @@
 		    | 3   | A  | C   | B   |              | C   | 2   | 1    | 3   |          3: 0, B
 		    
 	 2. For any stable matching instance, the job optimal stable matching has no job paired with their least favorite candidate.
-		False, there could be a case where every job is paired with its least preferred candidate
-		    | 1   | C   | A   | B   |              | A   | 1   | 2   | 3   |          1:    A B, A C, C
+		False, there could be a case where every job has the same preference list so one job would get their least preferred candidate
+		    | 1   | A   | B   | C   |              | A   | 1   | 2   | 3   |          1:    
+		    | 2   | A   | B   | C   |              | B   | 1   | 2   | 3   |         2: 
+		    | 3   | A   |  B  | C   |              | C   | 1   | 2   | 3   |          3: 
+	 3. For any stable matching instance, the job optimal stable matching has at least one candidate that does not get their favorite job.
+		  False, there could be a stable matching where all company and candidate preferences line up
+		     | 1   | C   | A   | B   |              | A   | 1   | 2   | 3   |          1:    A B, A C, C
 		    | 2   | A   | B   | C   |              | B   | 1   | 2   | 3   |         2: C, C B, B A, A
 		    | 3   | A  | C   | B   |              | C   | 2   | 1    | 3   |          3: 0, B
-	 3. For any stable matching instance, the job optimal stable matching has at least one candidate that does not get their favorite job.
-		  
 	 1. For any stable matching instance, all matchings have an even number of rogue couples. (Recall, a stable matching has 0 rogue couples.)
 	 2. Consider an output from running the Propose-and-Reject algorithm on a stable matching instance with n jobs and n candidates. We then arbitrarily permute one job’s preference list.
 		 1. What is the maximum number of jobs that can participate in a rogue couple in the outputted matching with respect to the permuted preference list?
