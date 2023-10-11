@@ -106,4 +106,4 @@ ____
 	  6. What is $304^{2022}$mod(70)?
 		  16
 8. Given a positive integer n, we define the digital root of n, DR(n), to be the positive integer attained from repeatedly summing the base 10 digits of n until n is a single digit number. For example, DR(191) = 2 because 191 → 1+9+1 = 11 → 1+1 = 2. Prove that DR(n) ≡ n (mod 9).
-	Not really sure
+	For n of k digits long, we can rewrite n as $a*10^{k-1} + b*10^{k-2}... + c*10^0$ . We know that any power of 100 This can be rewritten as $9($
