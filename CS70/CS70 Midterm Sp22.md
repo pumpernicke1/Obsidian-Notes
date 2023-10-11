@@ -57,7 +57,7 @@ ____
 		 2. What is the maximum number of rogue couples in the outputted matching with respect to the permuted preference listicle
 			   $n$ rogue pairs would occur although I am not sure if my reasoning holds up in the first answer. 
 ____   
- 1. Graphs
+ 6. Graphs
 	 1. For all $n \geq 3$  any graph with n vertices and n edges is planar.
 			  My gut is telling me false but I can't come up with a counterexample so I would probably put true.
 	  2. How many colors are needed to vertex color a bipartite graph of maximum vertex degree d.
@@ -84,7 +84,18 @@ ____
 				  0
 		  2. For a tree, the walk always terminates at a vertex with degree that is . (Give as specific of an answer as possible.)
 				  odd
-		  1. For a complete graph on n vertices where n is odd, the walk always forms a Hamiltonian tour.
+		  3. For a complete graph on n vertices where n is odd, the walk always forms a Hamiltonian tour.
 				  True
-		  1. For a hypercube of dimension n, the walk terminates at an odd degree vertex or at u.
+		  4. For a hypercube of dimension n, the walk terminates at an odd degree vertex or at u.
 				  True
+  ___
+  7. Mod Math
+	  1. Give all the solutions to $5x ≡ 3$(mod 24) or write “none”.
+		  
+	  1. Give all the solutions to $15x ≡ 3$(mod 24) or write “none”.
+	  2. Give all the solutions to $15x ≡ 13$ (mod 24) or write “none”.
+	  3. Compute $21^{141} (mod 71)$ .
+	  4. Consider an RSA scheme with public key $N = 77$ and $e = 7$.
+		  1. What is the private key?
+		  2. What is the decoding of the encrypted message 76?
+	  5. What is $304^{2022}$mod(70)?
