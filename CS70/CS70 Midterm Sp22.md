@@ -100,6 +100,6 @@ ____
 		  21
 	  1. Consider an RSA scheme with public key $N = 77$ and $e = 7$.
 		  1. What is the private key?
-			  
+			  d=43
 		  1. What is the decoding of the encrypted message 76?
 	  2. What is $304^{2022}$mod(70)?
