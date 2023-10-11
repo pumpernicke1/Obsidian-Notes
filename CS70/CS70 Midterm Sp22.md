@@ -58,4 +58,8 @@ ____
 			   $n$ rogue pairs would occur although I am not sure if my reasoning holds up in the first answer. 
  6. Graphs
 	 1. For all $n \geq 3$  any graph with n vertices and n edges is planar.
+		  My gut is telling me false but I can't come up with a counterexample so I would probably put true.
+	  2. How many colors are needed to vertex color a bipartite graph of maximum vertex degree d.
+		  It would be d + 1 since d colors would be used to color the vertices connected to vertex v of degree d and the + 1 color would be used to color v.
+	  3. Consider that $G = (V,E1)$ and $G′ = (V,E2)$ are bipartite, how many colors are sufficient to vertex color $G′′ = (V,E1 ∪E2)?$ (You should give as small as bound as possible.)
 		  
