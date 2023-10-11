@@ -132,8 +132,11 @@ ____
 ___
 10. Polynomials and Functions
 	1. Consider any function f(x) where the domain and range is arithmetic modulo a prime p
-	2. Prove that f(x) corresponds to a polynomial expression modulo p.
+		1. Prove that f(x) corresponds to a polynomial expression modulo p.
 		Not sure how to answer this
-	2. Give a tight upper bound on the minimum degree of a polynomial that represents f(x)
-___
-11. 
+		2. Give a tight upper bound on the minimum degree of a polynomial that represents f(x)
+			p - 1
+	2. Consider a composite number $m = p1 p2$, with p1 and p2 different primes, and a polynomial P(x) over arithmetic modulo m.
+		1. Give a tight upper bound on the minimum degree of a polynomial expression equivalent as functions to P(x) (i.e. gives the same value when evaluated at all x). (Hint: Think about question 1(b) and CRT.)
+		2. Justify your answer above. That is, show that any polynomial over arithmetic modulo m can be represented by an expression of degree at most your answer above. (10 points)
+		3. Any function under arithmetic modulo m corresponds to a polynomial.
