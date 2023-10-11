@@ -91,11 +91,12 @@ ____
   ___
   7. Mod Math
 	  1. Give all the solutions to $5x ≡ 3$(mod 24) or write “none”.
-		  
+		  Im assuming this is all x mod 24 but 15, 57 just in case
 	  1. Give all the solutions to $15x ≡ 3$(mod 24) or write “none”.
-	  2. Give all the solutions to $15x ≡ 13$ (mod 24) or write “none”.
-	  3. Compute $21^{141} (mod 71)$ .
-	  4. Consider an RSA scheme with public key $N = 77$ and $e = 7$.
+		  
+	  1. Give all the solutions to $15x ≡ 13$ (mod 24) or write “none”.
+	  2. Compute $21^{141} (mod 71)$ .
+	  3. Consider an RSA scheme with public key $N = 77$ and $e = 7$.
 		  1. What is the private key?
 		  2. What is the decoding of the encrypted message 76?
-	  5. What is $304^{2022}$mod(70)?
+	  4. What is $304^{2022}$mod(70)?
