@@ -130,6 +130,7 @@ ____
 		 4. If there were i ≤ k errors, the recovered E(x) has at least roots. Give the largest lower bound you can.
 			 k
 ___
+==BIG FOCUS MUST REVIEW POLYNOMIALS==
 10. Polynomials and Functions
 	1. Consider any function f(x) where the domain and range is arithmetic modulo a prime p
 		1. Prove that f(x) corresponds to a polynomial expression modulo p.
@@ -140,3 +141,7 @@ ___
 		1. Give a tight upper bound on the minimum degree of a polynomial expression equivalent as functions to P(x) (i.e. gives the same value when evaluated at all x). (Hint: Think about question 1(b) and CRT.)
 		2. Justify your answer above. That is, show that any polynomial over arithmetic modulo m can be represented by an expression of degree at most your answer above. (10 points)
 		3. Any function under arithmetic modulo m corresponds to a polynomial.
+___
+11. Count the Ways  : Jonathan is playing a game called 70rdle. In this game, the 70 staff has a secret string of five upper-case English letters, and Jonathan must guess exactly what the string is. Assume each subpart is independent of the other subparts. The English alphabet has 26 letters.
+	1. With no restrictions, how many strings are possible?
+		1. 
