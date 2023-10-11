@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Practice",
+                "query": "[\"tags\":",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,10 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9f1235fec9182aa",
+  "active": "4cb76f4320c0a445",
   "lastOpenFiles": [
-    "CS70/Modular Arithmetic.md",
+    "CS70/modmath.md",
     "CS70/CS70 Midterm Sp22.md",
+    "CS70/Modular Arithmetic.md",
     "CS70",
     "Pics/Pasted image 20231010051123.png",
     "Pics/Pasted image 20231010051115.png",
