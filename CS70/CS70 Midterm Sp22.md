@@ -58,8 +58,12 @@ ____
 			   $n$ rogue pairs would occur although I am not sure if my reasoning holds up in the first answer. 
  6. Graphs
 	 1. For all $n \geq 3$  any graph with n vertices and n edges is planar.
-		  My gut is telling me false but I can't come up with a counterexample so I would probably put true.
+			  My gut is telling me false but I can't come up with a counterexample so I would probably put true.
 	  2. How many colors are needed to vertex color a bipartite graph of maximum vertex degree d.
-		  It would be d + 1 since d colors would be used to color the vertices connected to vertex v of degree d and the + 1 color would be used to color v.
+			  It would be d + 1 since d colors would be used to color the vertices connected to vertex v of degree d and the + 1 color would be used to color v.
 	  3. Consider that $G = (V,E1)$ and $G′ = (V,E2)$ are bipartite, how many colors are sufficient to vertex color $G′′ = (V,E1 ∪E2)?$ (You should give as small as bound as possible.)
-		I am unsure about this one but I would say $|E_1 \cup E_2| - |E_1 \cap E_2|^\complement$ so that we only get the overlap. This doesn't feel like it's small enough a bound though  since we want to find the max degree. Must review later.  
+			I am unsure about this one but I would say $|E_1 \cup E_2| - |E_1 \cap E_2|^\complement$ so that we only get the overlap. This doesn't feel like it's small enough a bound though  since we want to find the max degree. Must review later.
+	  4. Consider bipartite graphs $(V,E1),(V,E2),(V,E3),...,(V,Ek)$ are bipartite, how many colors are sufficient to color $(V,E1 ∪ ··· ∪ Ek)?$ (You should give as small as bound as possible that is in terms of k.)
+			  We continue the same pattern as before but with $E_k$ 
+	  5. There is always a vertex of degree at most in a connected bipartite planar graph. Recall that any bipartite planar graph $G = (V,E)$ satisfies $|E| ≤ 2|V|−4$. (You should give as tight of a bound as possible.)
+			  Shouldn't this just be 2 since we can kinda zig zag to create a connected bipartite graph? The logic feels a bit iffy though I will admit. Something like this (The graph of S to U). ![[Pasted image 20231011012246.png]]
