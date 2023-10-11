@@ -111,10 +111,21 @@ ____
  9. Polynomials and Applications
 	 1. Consider non-zero polynomials $P(x)$ of degree $d_p$ and $Q(x)$ of degree $d_q$, where $d_p$ and $d_q$ are nonnegative integers
 		 1. What is the maximum degree of $P(x)Q(x)$?
-			 dp x dq
+			 dp + dq
 		 2. What is the maximum degree of $P(Q(x))$?
-			 dq^dp
+			 dq x dp
 		 3. What is the maximum degree of $P(xQ(x))$?
-			 (dq+1)^dp
+			 (dq+1) x dp
 	 2. If a polynomial $P(x)$ has a root at r, then $P(x) = (x - r)Q(x)$ for some $Q(x)$ 
-	 3. 
+		 True, Q(x) would be some polynomial of degree 1 less than P(x)
+	 1. Given a degree d polynomial $P(x)$ and $k$ values $x_1,..., x_k$ with $k ≤ d$, how many polynomials of degree at most d over arithmetic modulo prime p have the same value as $P(x) on x_1,..., x_k$?
+		 0? I need to review polynomial division
+	 4. For this problem, consider the Berlekamp-Welch scheme.
+		 1. What is the degree of polynomial P(x) used to encode this message?
+			 n - 1
+		 2. What is the degree of the error locator polynomial E(x)?
+			  k
+		 1. What is the degree of Q(x) = P(x)E(x)?
+			  n + k
+		 1. If there were i ≤ k errors, the recovered E(x) has at least roots. Give the largest lower bound you can.
+			 
