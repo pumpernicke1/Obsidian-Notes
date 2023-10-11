@@ -83,5 +83,7 @@ ____
 		  1. The walk always terminates at the vertex u if and only if the degree of every vertex is .
 				  0
 		  2. For a tree, the walk always terminates at a vertex with degree that is . (Give as specific of an answer as possible.)
-		  3. For a complete graph on n vertices where n is odd, the walk always forms a Hamiltonian tour.
-		  4. For a hypercube of dimension n, the walk terminates at an odd degree vertex or at u.
+				  odd
+		  1. For a complete graph on n vertices where n is odd, the walk always forms a Hamiltonian tour.
+				  True
+		  1. For a hypercube of dimension n, the walk terminates at an odd degree vertex or at u.
