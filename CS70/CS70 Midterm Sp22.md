@@ -131,3 +131,9 @@ ____
 			 k
 ___
 10. Polynomials and Functions
+	1. Consider any function f(x) where the domain and range is arithmetic modulo a prime p
+	2. Prove that f(x) corresponds to a polynomial expression modulo p.
+		Not sure how to answer this
+	2. Give a tight upper bound on the minimum degree of a polynomial that represents f(x)
+___
+11. 
