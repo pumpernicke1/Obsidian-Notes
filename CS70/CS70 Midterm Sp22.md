@@ -51,8 +51,11 @@ ____
 		    | 3   | A   |  B  | C   |              | C   | 1   | 2   | 3   |          3:  ==C==
 	 4. For any stable matching instance, all matchings have an even number of rogue couples. (Recall, a stable matching has 0 rogue couples.)
 		  True, since stable matchings have 0 rogue couples and 0 is even.
-	 1. Consider an output from running the Propose-and-Reject algorithm on a stable matching instance with n jobs and n candidates. We then arbitrarily permute one job’s preference list.
+	 5. Consider an output from running the Propose-and-Reject algorithm on a stable matching instance with n jobs and n candidates. We then arbitrarily permute one job’s preference list.
 		 1. What is the maximum number of jobs that can participate in a rogue couple in the outputted matching with respect to the permuted preference list?
 			   n because if all candidates have the same preference  list and we permute the preference list of the job at the top of all the candidate's lists, this should affect all of them.
 		 1. What is the maximum number of rogue couples in the outputted matching with respect to the permuted preference listicle
-			   n^2 although I am not sure if my reasoning holds up in the first answer. 
+			   $n$ rogue pairs would occur although I am not sure if my reasoning holds up in the first answer. 
+ 6. Graphs
+	 1. For all $n \geq 3$  any graph with n vertices and n edges is planar.
+		  
