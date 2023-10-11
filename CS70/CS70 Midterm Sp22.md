@@ -104,7 +104,16 @@ ____
 		  2. What is the decoding of the encrypted message 76?
 			  This is a hail mary but 1?
 	  6. What is $304^{2022}$mod(70)?
-		  16
+$$
+	\begin{align}
+	304^{2022}mod(70) = 304^{2022}mod(2 * 5 * 7) \\
+	1 * 4 * 6 = 24\\
+	2022(mod24) = 6\\
+	304^{2022(mod24)} = 304^6\\
+	304(mod70) = 24^6\\
+	
+	\end{align}
+$$
 8. Given a positive integer n, we define the digital root of n, DR(n), to be the positive integer attained from repeatedly summing the base 10 digits of n until n is a single digit number. For example, DR(191) = 2 because 191 → 1+9+1 = 11 → 1+1 = 2. Prove that DR(n) ≡ n (mod 9).
 	For n of k digits long, we can rewrite n as $a*10^{k-1} + b*10^{k-2}... + c*10^0$ . We know that any power of 10 is equal to 1(mod9) since a multiple of 9 is 9, 99, 999 and so on. This means the original equation can be rewritten as $9(a + b + c) + a + b + c$. The a + b + c in the parentheses would have coefficients but they won't matter after this next step. $9(a + b + c) + a + b + c = a + b + c$(mod9). Now, if a + b + c is less than 9, we're done, but if not, a + b + c = d x 10 + e which again, d x 10 = dmod(9) and c = c mod(9) so we're left with d + e. We just proved that repeatedly adding the digits is the same as modding by 9. Wow I can't believe I was actually able to do that!
  ___
