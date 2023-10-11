@@ -1,6 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-table-generator",
-  "markdown-table-editor",
-  "ob-table-enhancer"
+  "ob-table-enhancer",
+  "table-editor-obsidian",
+  "obsidian-table-generator"
 ]
