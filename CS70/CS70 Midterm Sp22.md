@@ -75,4 +75,11 @@ ____
 		  1. Removing 2k edges from G produces a graph with at least __ connected components
 				  
 		  1. Removing 2k edges from G produces a graph with at most connected components.
-			  
+	  8. At least d colors are required for a valid vertex coloring for any graph with maximum vertex degree d.
+			  False, you would need d + 1 in order to color vertex v.
+	  9.  Removing any degree 2 vertex (and its incident edges) in a connected acyclic graph leaves a graph with two connected components.
+			  True, as that degree 2 vertex is the only thing keeping the components together. If there existed another vertex attached to these components, it would form a cycle.
+	  10. Consider a walk in a connected graph $G = (V,E)$ with $|V| ≥ 4$ formed by starting at a vertex $u$ and proceeding by choosing an arbitrary unused edge at the current vertex to get to the next vertex. The process terminates when it reaches a vertex where all incident edges have already been used.
+		  1. The walk always terminates at the vertex u if and only if the degree of every vertex is .
+		  2. For a tree, the walk always terminates at a vertex with degree that is . (Give as specific of an answer as possible.)
+		  3. For a complete graph on n vertices where n is odd, the walk always forms a Hamiltonian tour.
