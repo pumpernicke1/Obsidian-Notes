@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "a6ee1669dd47f959",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d7268a71c69d3ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "335779b579281857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS70/CS70 Midterm Sp22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cd354f54b856cbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS70/Modular Arithmetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc3b56d0ff29b88b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "34022c6d78b854af",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c1b0da6011ec226c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e8d6840910b1fb2f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ae207111968941d6",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "74c1401a1802df0f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f116ad5d22fbefef",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "CS70/CS70 Midterm Sp22.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bdc9be7e23d4d38a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "CS70/CS70 Midterm Sp22.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9caf574774f6d9f1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "CS70/CS70 Midterm Sp22.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "335779b579281857",
+  "lastOpenFiles": [
+    "CS70/Modular Arithmetic.md",
+    "CS70/CS70 Midterm Sp22.md",
+    "Obsidian-Notes/CS70/Modular Arithmetic.md",
+    "Obsidian-Notes/CS70/CS70 Midterm Sp22.md",
+    "Obsidian-Notes/README.txt",
+    "Obsidian-Notes/CS70",
+    "Obsidian-Notes",
+    "conflict-files-obsidian-git.md",
+    "INTEGBI",
+    "Untitled.md",
+    "WebDev",
+    "/CS70/Modular Arithmetic.md",
+    "CS70",
+    "/CS70",
+    "/Untitled.md",
+    "Pics/Pasted image 20231010051123.png",
+    "Pics/Pasted image 20231010051115.png",
+    "/Pics/Pasted image 20231010051123.png",
+    "/Pics/Pasted image 20231010051115.png",
+    "Pics",
+    "/Pics"
+  ]
+}

@@ -49,4 +49,4 @@
 	 1. For any stable matching instance, all matchings have an even number of rogue couples. (Recall, a stable matching has 0 rogue couples.)
 	 2. Consider an output from running the Propose-and-Reject algorithm on a stable matching instance with n jobs and n candidates. We then arbitrarily permute one job’s preference list.
 		 1. What is the maximum number of jobs that can participate in a rogue couple in the outputted matching with respect to the permuted preference list?
-		 2. What is the maximum number of rogue couples in the outputted matching with respect to the permuted preference list?
+		 2. What is the maximum number of rogue couples in the outputted matching with respect to the permuted preference listicle
