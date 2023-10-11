@@ -62,4 +62,4 @@ ____
 	  2. How many colors are needed to vertex color a bipartite graph of maximum vertex degree d.
 		  It would be d + 1 since d colors would be used to color the vertices connected to vertex v of degree d and the + 1 color would be used to color v.
 	  3. Consider that $G = (V,E1)$ and $G′ = (V,E2)$ are bipartite, how many colors are sufficient to vertex color $G′′ = (V,E1 ∪E2)?$ (You should give as small as bound as possible.)
-		I am unsure about this one but I would say $|E_1 \cup E_2| - |$  
+		I am unsure about this one but I would say $|E_1 \cup E_2| - |E_1 \cap E_2|^\complement$ so that we only get the overlap. This doesn't feel like it's small enough a bound though  since we want to find the max degree. Must review later.  
