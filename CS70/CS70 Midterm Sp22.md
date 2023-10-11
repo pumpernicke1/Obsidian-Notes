@@ -104,4 +104,6 @@ ____
 		  2. What is the decoding of the encrypted message 76?
 			  This is a hail mary but 1?
 	  6. What is $304^{2022}$mod(70)?
-		  This is time sensitive but ill end at 24^62
+		  16
+8. Given a positive integer n, we define the digital root of n, DR(n), to be the positive integer attained from repeatedly summing the base 10 digits of n until n is a single digit number. For example, DR(191) = 2 because 191 → 1+9+1 = 11 → 1+1 = 2. Prove that DR(n) ≡ n (mod 9).
+	1. 
