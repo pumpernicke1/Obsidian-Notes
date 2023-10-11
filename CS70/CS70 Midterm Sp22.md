@@ -72,4 +72,7 @@ ____
 	  6.   The complete graph $K_n$ on $n > 3$ vertices can be made to contain an Eulerian tour by deleting a minimum of edges. (Answer(s) should be as small as possible and possibly in terms of n.)
 			  For evens, a eularian tour is possible if every vertex is of even degree but since there is an even number of vertices, each vertex has degree n-1. We should be able to get a eularian tour if we remove n edges. Odds, I think it's zero since  they're all already even.
 	  7. Consider a connected n-vertex graph G with exactly k cycles. Provide as tight of a bound as possible for each part. (You may assume $n > 4k$).
+		  1. Removing 2k edges from G produces a graph with at least __ connected components
+				  
+		  1. Removing 2k edges from G produces a graph with at most connected components.
 			  
