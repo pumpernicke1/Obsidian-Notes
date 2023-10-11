@@ -87,3 +87,4 @@ ____
 		  1. For a complete graph on n vertices where n is odd, the walk always forms a Hamiltonian tour.
 				  True
 		  1. For a hypercube of dimension n, the walk terminates at an odd degree vertex or at u.
+				  True
