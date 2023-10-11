@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "theme": "moonstone",
+  "theme": "obsidian",
   "cssTheme": "Pink Topaz",
   "baseFontSize": 18,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "translucency": false
 }
