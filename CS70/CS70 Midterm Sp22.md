@@ -1,3 +1,6 @@
+---
+tags:
+---
 2. Warmup: There are 70 people. An even number of them wear one shoe. One-half of the remainder wear no shoes, and the rest wear two shoes. How many shoes are worn in total by the 70 people?
 	Answer: 
 			 $Shoes = 2k + 2(70-2k/2) + 0(70-2k/2)$
@@ -50,5 +53,6 @@
 		  True, since stable matchings have 0 rogue couples and 0 is even.
 	 1. Consider an output from running the Propose-and-Reject algorithm on a stable matching instance with n jobs and n candidates. We then arbitrarily permute one job’s preference list.
 		 1. What is the maximum number of jobs that can participate in a rogue couple in the outputted matching with respect to the permuted preference list?
-			   n because if all candidates have the same preference  list and we permute the job prefer
+			   n because if all candidates have the same preference  list and we permute the preference list of the job at the top of all the candidate's lists, this should affect all of them.
 		 1. What is the maximum number of rogue couples in the outputted matching with respect to the permuted preference listicle
+			   n^2 although I am not sure if my reasoning holds up in the first answer.
