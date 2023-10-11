@@ -32,9 +32,9 @@
  5. Stability in Matchings
 	 1. For any stable matching instance, the job optimal stable matching has at least one job that is paired with their favorite candidate. 
 		  False, consider the following stable matching where each job has a   candidate that prefers them the least, then no job would get its top job.
-		    | 1   | A   | B   | C   |              | A   | 3   | 1   | 2   |          1: B   
-		    | 2   | A   | B   | C   |              | B   | 1   | 2   | 3   |         B: 
-		    | 3   | C  | A   | B   |              | C   | 1   | 2   | 3   |          3: A 
+		    | 1   | C   | A   | B   |              | A   | 1   | 2   | 3   |          1:    A B, A C, C
+		    | 2   | A   | B   | C   |              | B   | 1   | 2   | 3   |         2: C, C B, B A, A
+		    | 3   | A  | C   | B   |              | C   | 2   | 1    | 3   |          3: 0, B
 		    
 	 2. For any stable matching instance, the job optimal stable matching has no job paired with their least favorite candidate.
 	 3. For any stable matching instance, the job optimal stable matching has at least one candidate that does not get their favorite job.
