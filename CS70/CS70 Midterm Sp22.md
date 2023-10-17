@@ -49,9 +49,9 @@ ____
                    | 1   | A   | B   | C   |              | A   | 1   | 2   | 3   |          1:    ==A==
 		    | 2   | A   | B   | C   |              | B   | 1   | 2   | 3   |         2:  ==B==
 		    | 3   | A   |  B  | C   |              | C   | 1   | 2   | 3   |          3:  ==C==
-	 4. For any stable matching instance, all matchings have an even number of rogue couples. (Recall, a stable matching has 0 rogue couples.)
+	 4. WRONG [[CS70 Midterm Sp22 Solutions]] For any stable matching instance, all matchings have an even number of rogue couples. (Recall, a stable matching has 0 rogue couples.)
 		  True, since stable matchings have 0 rogue couples and 0 is even.
-	 5. Consider an output from running the Propose-and-Reject algorithm on a stable matching instance with n jobs and n candidates. We then arbitrarily permute one job’s preference list.
+	 5. WRONG [[CS70 Midterm Sp22 Solutions]] Consider an output from running the Propose-and-Reject algorithm on a stable matching instance with n jobs and n candidates. We then arbitrarily permute one job’s preference list.
 		 1. What is the maximum number of jobs that can participate in a rogue couple in the outputted matching with respect to the permuted preference list?
 			   n because if all candidates have the same preference  list and we permute the preference list of the job at the top of all the candidate's lists, this should affect all of them.
 		 2. What is the maximum number of rogue couples in the outputted matching with respect to the permuted preference listicle
@@ -81,7 +81,7 @@ ____
 			  True, as that degree 2 vertex is the only thing keeping the components together. If there existed another vertex attached to these components, it would form a cycle.
 	  10. Consider a walk in a connected graph $G = (V,E)$ with $|V| ≥ 4$ formed by starting at a vertex $u$ and proceeding by choosing an arbitrary unused edge at the current vertex to get to the next vertex. The process terminates when it reaches a vertex where all incident edges have already been used.
 		  1. The walk always terminates at the vertex u if and only if the degree of every vertex is .
-				  0
+				  even
 		  2. For a tree, the walk always terminates at a vertex with degree that is . (Give as specific of an answer as possible.)
 				  odd
 		  3. For a complete graph on n vertices where n is odd, the walk always forms a Hamiltonian tour.
@@ -153,4 +153,24 @@ ___
 ___
 11. Count the Ways  : Jonathan is playing a game called 70rdle. In this game, the 70 staff has a secret string of five upper-case English letters, and Jonathan must guess exactly what the string is. Assume each subpart is independent of the other subparts. The English alphabet has 26 letters.
 	1. With no restrictions, how many strings are possible?
-		1. 
+		He chooses from 26 letters 5 times so that is $26^5$
+	2. If no letter is allowed to appear in the string more than once, how many strings are possible?
+		This would be one choice of 26, another of 25, and so on. It could be written as $26 \times 25 \times 24 \times 23 \times 22$ 
+	3. If the letters in the string must be sorted in alphabetical order, how many strings are possible?
+		In this case, order doesn't matter so it would $\frac{26^5}{5}$ 
+	4. How many strings contain atleast one J?
+		$26^5$ possible choices and there is a $\frac{5}{26}$ chance that J is in a single word so i think the answer is $26^5 \times \frac{5}{26}$
+	5. How many strings contain atleast one J in the first two letters?
+		In this case, J only needs to appear once in the first two letters. This can be rewritten as 4 choices left, meaning $26^4$
+	6. How many strings contain exactly 5 J's?
+		The answer is 125 since this would look like JJJJ_ where the blank spot has 25 choices / letters left to choose from. This is multiplied by 5 since the empty spot can be \_JJJJ, J_JJJ, JJ_JJ, JJJ_J, JJJJ_. 
+	7. How many strings contain exactly 5 J's?
+		Only one, this ones a bit self explanatory since JJJJJ is the only option.
+___
+12. A little bit of Fermat from Induction : Need to review notes, will skip for now
+	1. Prove that for any $1 \leq k \leq p-1,p | (\frac{p}{k})$  
+___
+13. Rare Scheme for Alice
+	1. After completing the interpolation, how can the Alices reconstruct m?
+		If they completed the interpolation and found P(x), they can find p(0) and then derive the value of m(mod p) through RSA or FLT.
+	2. $$
