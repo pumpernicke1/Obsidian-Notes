@@ -4,7 +4,7 @@
 		- Displaying data
 	- Limitations
 		- No way to store data
-		- No user authetication and authorization
+		- No user authentication and authorization
 - Backend: An Intro
 	- Node.js
 		- It is a server environment that allows programmers to run javascript on a webserver
