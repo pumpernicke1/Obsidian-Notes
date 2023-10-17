@@ -16,4 +16,20 @@
 			- Examples of modules: datascience for data8, Math, pandas
 			- How to import in js: require(*insert module name*)
 			- npm - Node Package Manager
-				- 
+				- Manages dependencies within a project
+				- Lists all dependencies on a project found in the code so you don't have to worry about manually downloading all dependencies
+			- Running npm:
+				- npm init
+					- Creates packages.json
+				- npm install
+					- Installs module
+					- Updates package.json
+- Middleware:
+	- An intro
+		- Middleware is everything besides frontend and backend
+		- Express is an example of middleware, used by programmers to communicate between front-end and backend
+		- Allows for abstraction of the backend when using info in the frontend
+	- Express
+		- Think of it like the lacquer on a wooden table (the wooden table is Node.js)
+		- Makes it easier to create APIs
+	- [[Computability]]
