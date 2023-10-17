@@ -15,4 +15,5 @@
 			- Pieces of reusable code that you can use in your application
 			- Examples of modules: datascience for data8, Math, pandas
 			- How to import in js: require(*insert module name*)
-			- npm - Node Package Manar
+			- npm - Node Package Manager
+				- 
