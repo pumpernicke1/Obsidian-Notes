@@ -1,0 +1,19 @@
+- Front End
+	- Capabilities
+		- Making simple apps
+		- Displaying data
+	- Limitations
+		- No way to store data
+		- No user authentication and authorization
+- Backend: An Intro
+	- Node.js
+		- It is a server environment that allows programmers to run javascript on a webserver
+		- Node is useful for its extensive library of frameworks that come in handy when coding
+	- How does the backend communicate with the front end?
+		- Front end sends a request to the web server -> Web server retrieves data from database -> Web server sends back info from database -> Front end displays info
+		-  Node.js Modules
+			- Pieces of reusable code that you can use in your application
+			- Examples of modules: datascience for data8, Math, pandas
+			- How to import in js: require(*insert module name*)
+			- npm - Node Package Manager
+				- 
