@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1c9ec9549302658",
+            "id": "134bc841dbef68e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS70/Material/Computability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29ef3d7daf061026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebDev/Node JS and Express.md",
+                "file": "INTEGBI 41/Guest Lecture 4 - Evolution of Marine Mammals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\":",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/Node JS and Express.md",
+                "file": "INTEGBI 41/Guest Lecture 4 - Evolution of Marine Mammals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/Node JS and Express.md",
+                "file": "INTEGBI 41/Guest Lecture 4 - Evolution of Marine Mammals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/Node JS and Express.md"
+                "file": "INTEGBI 41/Guest Lecture 4 - Evolution of Marine Mammals.md"
               }
             }
           },
           {
-            "id": "c915ae133c9ac6ef",
+            "id": "ba6d41b0a8fec7f0",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -160,45 +147,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bade2ae869626392",
+  "active": "134bc841dbef68e4",
   "lastOpenFiles": [
+    "INTEGBI 41/Guest Lecture 4 - Evolution of Marine Mammals.md",
+    "INTEGBI 41",
+    "Untitled.md",
     "Pics/Pasted image 20231017132031.png",
+    "CS70/Material/Intro to Discrete Probability.md",
+    "CS70/Material/Computability.md",
+    "CS70/Material",
+    "CS70/Practice Midterms/CS70 Midterm Sp22 Solutions.md",
+    "CS70/Probability/Intro to Discrete Probability.md",
+    "CS70/Polynomials.md",
+    "CS70/Probability",
+    "CS70/Modular Arithmetic.md",
+    "WebDev/Node JS and Express.md",
+    "CS70/Practice Midterms/CS70 Midterm Sp22.md",
+    "CS70/Practice Midterms",
+    "conflict-files-obsidian-git.md",
+    "WebDev",
     "Pics/Pasted image 20231011213923.png",
     "Pics/Pasted image 20231011211202.png",
-    "CS70/Material/Computability.md",
-    "Untitled.md",
-    "CS70/Material",
     "Pics/Pasted image 20231011210602.png",
-    "CS70/Material/Intro to Discrete Probability.md",
-    "CS70/Probability",
-    "CS70/Practice Midterms/CS70 Midterm Sp22.md",
-    "CS70/Practice Midterms/CS70 Midterm Sp22 Solutions.md",
-    "CS70/Practice Midterms",
-    "WebDev/Node JS and Express.md",
-    "CS70/CS70 Midterm Sp22.md",
-    "WebDev",
-    "CS70/Modular Arithmetic.md",
-    "CS70/Polynomials.md",
     "Pics/Pasted image 20231011012246.png",
-    "conflict-files-obsidian-git.md",
-    "Pics",
-    "Untitled 1.md",
-    "ob-table-enhancer/styles.css",
-    "ob-table-enhancer/manifest.json",
-    "ob-table-enhancer/main.js",
-    "ob-table-enhancer",
-    "CS70/ob-table-enhancer/styles.css",
-    "Untitled.canvas",
+    "CS70/modmath.md",
+    "CS70",
     "Pics/Pasted image 20231010051123.png",
-    "Pics/Pasted image 20231010051115.png"
+    "Pics/Pasted image 20231010051115.png",
+    "Pics"
   ]
 }
