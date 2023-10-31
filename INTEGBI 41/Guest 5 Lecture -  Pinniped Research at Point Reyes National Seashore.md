@@ -1,0 +1,25 @@
+- Haul-outs: Locations on land where seals gather to rest, give birth, care for pups, molt
+- Annual Life cycle
+	- pupping and breeding  spring to summer
+	- molting and dispersal summer
+	- Winter foraging 
+- Birth sequence
+	- females give birth to one pup/year
+	- pups swim at birth
+	- females wean pups at 30 days
+	- pups double in size to 50lb after just one month
+- Monitoring methods
+	- Tracking shark bites
+	- Harbor seal fur can turn red the iron in their fur i s literally rusting
+	- decline in pup count and they don;t know why
+	- No real pup decline during the breeding season but lower counts during molting season
+	- Are they dying or are they moving somewhere we can't track
+	- Funding is important
+- elephant seals
+	- Males weigh 5000 lbs
+- Harbor seals swim day one but elephant seals don't why is this? Elephant seals have to learn all this on their own the mother is gone
+- side note: super weaner very funny
+- climate change and increasing tide, less places to breed increase in winter storms
+- Tracking: tagging pups collaborating with researchers across the USU and Mexico
+- dip in number of pups last year due to winter storms.
+- Sarah  Codde
