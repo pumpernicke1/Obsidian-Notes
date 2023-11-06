@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTEGBI 41/Guest 5 Lecture -  Pinniped Research at Point Reyes National Seashore.md",
+                "file": "INTEGBI 41/Guest 7 Lecture - David Ensminger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INTEGBI 41/Guest 5 Lecture -  Pinniped Research at Point Reyes National Seashore.md",
+                "file": "INTEGBI 41/Guest 7 Lecture - David Ensminger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INTEGBI 41/Guest 5 Lecture -  Pinniped Research at Point Reyes National Seashore.md",
+                "file": "INTEGBI 41/Guest 7 Lecture - David Ensminger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INTEGBI 41/Guest 5 Lecture -  Pinniped Research at Point Reyes National Seashore.md"
+                "file": "INTEGBI 41/Guest 7 Lecture - David Ensminger.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,10 @@
   },
   "active": "134bc841dbef68e4",
   "lastOpenFiles": [
-    "INTEGBI 41/Guest Lecture 4 - Evolution of Marine Mammals.md",
+    "INTEGBI 41/Guest 6 Lecture.md",
+    "INTEGBI 41/Guest 7 Lecture - David Ensminger.md",
     "INTEGBI 41/Guest 5 Lecture -  Pinniped Research at Point Reyes National Seashore.md",
+    "INTEGBI 41/Guest Lecture 4 - Evolution of Marine Mammals.md",
     "INTEGBI 41",
     "Untitled.md",
     "Pics/Pasted image 20231017132031.png",
