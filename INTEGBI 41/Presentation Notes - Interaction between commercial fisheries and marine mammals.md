@@ -1,0 +1,21 @@
+- Seal Bombs
+	- Seal bombs were initially created to prevent excess predation of fish but seal bomb usage rates are a lot higher than previously thought
+	- Seal bombs pose threats to marine mammals, not just the blast itself but the loud noises created by explosions interfere in communication between marine mammals like whales and prevents them from finding food / habitats
+	- Current regulation is weak
+- Offshore fisheries
+	- Hard to regulate due to distance from land
+	- Often built in vital habitats to endangered species, risking habitat disruption
+- Attracting Marine Mammals
+	- These fish farms are basically bags of free food to marine mammals such as bottlenose dolphins
+		- This impacts their need for hunting and can disrupt their social behavior since they dont need to hunt for food but instead can just linger around fish farms
+		- Dolphins are adopting more solitary lifestyles (not officially proven too early to tell scientists suspect tho)
+	- A March 2023 study found that a quarter of the bottlenose dolphin population surrounding Hawai'i have interacted with a single finfish farm off of Kona
+	- Bottlenose dolphins have been harassing the native spinner dolphins who rest near the fish farm, causing them to abandon their resting place
+- Entanglement
+	- Marine mammals often get tangled in the nets of the fishfarm, with at least 24 reported bottlenose dolphins havfe been killed due to entanglements
+- Availability of Food
+	- Fisheries often use local fish to feed their farms depending on the type of fish being farmed which impacts the availability of food for marine mammals
+- Solutions:
+	- Seasonal seal bomb usage limitations coinciding with whale migration patterns
+	- fish farms closer to shore so they are easier to monitor by government bodies
+	- fish farms in artificial lakes connected to the ocean to prevent marine mammal pre

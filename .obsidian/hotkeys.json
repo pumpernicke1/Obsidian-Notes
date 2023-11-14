@@ -113,5 +113,14 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }
