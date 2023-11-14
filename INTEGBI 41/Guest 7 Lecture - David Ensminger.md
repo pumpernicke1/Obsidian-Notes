@@ -15,4 +15,6 @@
 	- No impact of weight on survivorship?
 		- Answer still not sure
 		- Could possibly help pups leave land longer to get better foraging conditions
-		- 
+- Interesting how they can just know when to claim territory and when to seek eachothers' touch based on the time of the year
+- Stress impacts testosterone of males
+- Dangers of research interesting how they get more hands on than lets say sarah codde at point reyes
