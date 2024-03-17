@@ -18,4 +18,4 @@
 - Solutions:
 	- Seasonal seal bomb usage limitations coinciding with whale migration patterns
 	- fish farms closer to shore so they are easier to monitor by government bodies
-	- fish farms in artificial lakes connected to the ocean to prevent marine mammal pre
+	- fish farms in artificial lakes connected to the ocean to prevent marine mammal predation
