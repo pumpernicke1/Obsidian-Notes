@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENG R1B/Untitled.md",
+                "file": "ENG R1B/Marx Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dc2fc904e8ab183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENG R1B/Marx Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0784fcd9da135c6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENG R1B/Marx Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENG R1B/Untitled.md",
+                "file": "ENG R1B/Marx Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENG R1B/Untitled.md",
+                "file": "ENG R1B/Marx Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENG R1B/Untitled.md"
+                "file": "ENG R1B/Marx Notes.md"
               }
             }
           },
@@ -155,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "134bc841dbef68e4",
+  "active": "0784fcd9da135c6f",
   "lastOpenFiles": [
+    "ENG R1B/Marx Notes.md",
     "Pics/Pasted image 20231017132031.png",
-    "ENG R1B/Untitled.md",
     "Pics/Pasted image 20231011211202.png",
     "Pics/Pasted image 20231011012246.png",
     "Pics/Pasted image 20231011210602.png",

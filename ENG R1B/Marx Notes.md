@@ -1,0 +1,27 @@
+- Marx argues that the purpose of machinery under capitalism is the creation of surplus value through decreasing the price of commodities and labor
+- Increased industrialization has taken emphasis away from the worker and placed it onto the machine (the starting-point has changed)
+- Marx disagrees with what separates a tool from a machine. Most say that a tool requires a person to use it while a machine can run autonomously but Marx instead distinguishes the two through their level of output
+- Whether the machine requires the oversight of a worker or not as a motive power is irrelevant
+- The machine replaces the worker who is limited by the number of actions they can do simultaneously
+- Industrialists struggled to find a suitable motive power outside of human and horsepower. The wind was inconsistent, water was hard to set up
+- The invention of the steam engine opened the way for complete control over the motive power
+- Mass production shifted manufacture from a series of specialized processes divided by labor to a series of everchanging processes
+- The logistics of production developed with the technology. Now, workers were charged with creating the machines that were being used to replace their original jobs
+- The development of automation was bottlenecked by its reliance on the work of skilled laborers
+- The goal of automation is to reduce the importance of the worker in the grand scheme of production, weakening the bargaining power of the working class
+- The industrialization of one sector necessitates the industrialization of adjacent sectors to fulfill demand
+- The heirarchy and division between skilled and unskilled laborers evaporates under a machine-based mode of production. It equalizes the importance of work done by each worker, with heirarchies now formed based on gender and age
+- The workers are now employed by the machine, tending to their needs rather than controlliing their production
+- The emphasis on the skill of the worker has been coopted by the machine, allowing for increased expendability of a factory's workforce
+- The worker from childhood is twisted and malformed, becoming nothing but an extension of the machine, easily thrown away as you would a broken part
+- The supposed benefits of automation, most notably a less heavier load for workers to bear becomes another form of mental imprisonment, stripping workers of skill and autonomy
+- As a symptom of labour now in the context of machinery, these workers are forced into a similarly mechanical system of strict discipline and harsh regiments
+- The abuse dealt by these factory owners, members of the bourgeoisie is remeniscint of slave/master dynamics
+- At the heart of the issue lies not automation and machinery but the masters of these machines and those who dictate the means of production
+- The unemployment of workers was often brushed over, with writers emphasizing the reallocation of jobs rather than the displacement of workers
+- Under a capitalist system, the worker aims to sell off their own labour-power as a commodity. This labour-power is derived from the worker's skill with certain specific tools.
+	- With the invention of industrial machinery, the labour-power of the worker vanishes
+- Factory owners have been quoted praising the cost-effectiveness of these new machines, failing to consider the workers who's livelihoods were sacrificed to reduce cost of production
+- A large issue is the concentration of power/production in the hands of fewer capitlaists
+- These machines act as the ultimate scab, an example being the steam engine continue to run along as exploited workers protested outside the factory's walls
+- Industrialization has not malformed the capitalist system. It has only exposed the inherent hypocrisy present in it.
