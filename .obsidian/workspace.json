@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENG R1B/Marx Notes.md",
+                "file": "WebDev/React/React Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENG R1B/Marx Notes.md",
+                "file": "Past Courses/ENG R1B/Marx Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENG R1B/Marx Notes.md",
+                "file": "Past Courses/ENG R1B/Marx Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f6a1c585fd8e1021",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENG R1B/Marx Notes.md",
+                "file": "WebDev/React/React Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENG R1B/Marx Notes.md",
+                "file": "WebDev/React/React Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENG R1B/Marx Notes.md"
+                "file": "WebDev/React/React Intro.md"
               }
             }
           },
@@ -167,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +180,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0784fcd9da135c6f",
+  "active": "134bc841dbef68e4",
   "lastOpenFiles": [
-    "ENG R1B/Marx Notes.md",
+    "WebDev/Node JS and Express.md",
+    "WebDev/React/React Intro.md",
+    "WebDev/React",
+    "Past Courses/ENG R1B/Marx Notes.md",
+    "Past Courses/CS70/Practice Midterms/CS70 Midterm Sp22.md",
     "Pics/Pasted image 20231017132031.png",
     "Pics/Pasted image 20231011211202.png",
     "Pics/Pasted image 20231011012246.png",
@@ -190,7 +194,7 @@
     "Past Courses/INTEGBI 41/Guest Lecture 4 - Evolution of Marine Mammals.md",
     "Past Courses",
     "Past Courses/INTEGBI 41/Guest Lecture 9.md",
-    "ENG R1B",
+    "Past Courses/ENG R1B",
     "Past Courses/INTEGBI 41/Guest 7 Lecture - David Ensminger.md",
     "Past Courses/INTEGBI 41/Guest 6 Lecture.md",
     "Past Courses/INTEGBI 41/Guest 5 Lecture -  Pinniped Research at Point Reyes National Seashore.md",
@@ -205,8 +209,6 @@
     "CS70/Polynomials.md",
     "CS70/Probability",
     "CS70/Modular Arithmetic.md",
-    "WebDev/Node JS and Express.md",
-    "Past Courses/CS70/Practice Midterms/CS70 Midterm Sp22.md",
     "Past Courses/CS70/Practice Midterms",
     "conflict-files-obsidian-git.md",
     "WebDev",
