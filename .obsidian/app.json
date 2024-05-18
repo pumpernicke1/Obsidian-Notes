@@ -1,6 +1,7 @@
 {
   "attachmentFolderPath": "Pics",
-  "tabSize": 8,
+  "tabSize": 2,
   "smartIndentList": true,
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": false
 }

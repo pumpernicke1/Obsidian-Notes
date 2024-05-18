@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/React/React Intro.md",
+                "file": "WebDev/React/Libraries and Frameworks.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/React/React Intro.md",
+                "file": "WebDev/React/Libraries and Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/React/React Intro.md",
+                "file": "WebDev/React/Libraries and Frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/React/React Intro.md"
+                "file": "WebDev/React/Libraries and Frameworks.md"
               }
             }
           },
@@ -182,8 +182,13 @@
   },
   "active": "134bc841dbef68e4",
   "lastOpenFiles": [
+    "WebDev/React/Setting Up React.md",
+    "WebDev/React/Libraries and Frameworks.md",
+    "WebDev/React/React Index.md",
+    "WebDev/React/Why React.md",
+    "WebDev/WebDev Notes.md",
+    "React.md",
     "WebDev/Node JS and Express.md",
-    "WebDev/React/React Intro.md",
     "WebDev/React",
     "Past Courses/ENG R1B/Marx Notes.md",
     "Past Courses/CS70/Practice Midterms/CS70 Midterm Sp22.md",
