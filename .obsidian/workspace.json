@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebDev/React/Libraries and Frameworks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dc2fc904e8ab183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Past Courses/ENG R1B/Marx Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0784fcd9da135c6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Past Courses/ENG R1B/Marx Notes.md",
+                "file": "WebDev/React/React Functions and Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f6a1c585fd8e1021",
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebDev/React/Libraries and Frameworks.md",
+                "file": "WebDev/React/React Functions and Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebDev/React/Libraries and Frameworks.md",
+                "file": "WebDev/React/React Functions and Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebDev/React/Libraries and Frameworks.md"
+                "file": "WebDev/React/React Functions and Components.md"
               }
             }
           },
@@ -182,10 +159,13 @@
   },
   "active": "134bc841dbef68e4",
   "lastOpenFiles": [
+    "Untitled.md",
+    "WebDev/React/React Functions and Components.md",
+    "WebDev/React/React JSX.md",
     "WebDev/React/Setting Up React.md",
-    "WebDev/React/Libraries and Frameworks.md",
     "WebDev/React/React Index.md",
     "WebDev/React/Why React.md",
+    "WebDev/React/Libraries and Frameworks.md",
     "WebDev/WebDev Notes.md",
     "React.md",
     "WebDev/Node JS and Express.md",
@@ -205,7 +185,6 @@
     "Past Courses/INTEGBI 41/Guest 5 Lecture -  Pinniped Research at Point Reyes National Seashore.md",
     "Past Courses/INTEGBI 41/Presentation Notes - Interaction between commercial fisheries and marine mammals.md",
     "Past Courses/INTEGBI 41",
-    "Untitled.md",
     "Past Courses/CS70/Material/Intro to Discrete Probability.md",
     "Past Courses/CS70/Material/Computability.md",
     "Past Courses/CS70/Material",
